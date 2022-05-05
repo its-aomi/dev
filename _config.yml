@@ -14,15 +14,15 @@ author:
   name: Amitabh Borah # author name
   bio: >- # tell to the world
     Hi, i am a beginner frontend developer that is working on some cool projects.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  username: AOMIE # general username
+  github: its-aomi # github username
+  twitter: #nil # twitter username
+  facebook: itzaomi # facebook username
+  email: #nil # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://dev.xcattx.com" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
